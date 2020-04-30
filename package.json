@@ -32,7 +32,7 @@
         "bootstrap": "4.3.1",
         "gulp-connect": "^5.7.0",
         "gulp-open": "^3.0.1",
-        "jquery": "3.4.1"
+        "jquery": "3.5.0"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
